@@ -1,0 +1,36 @@
+{
+"employees":[
+{
+"fname": "steven",
+"lname": "hawking",
+"id": "01",
+"state": "NY",
+"company": "xyz",
+"credit": "32984089468989"
+},
+{
+"fname": "kevin",
+"lname": "patty",
+"id": "02",
+"state": "NJ",
+"company": "mule",
+"credit": "38964896987854"
+},
+{
+"fname": "mike",
+"lname": "jack",
+"id": "03",
+"state": "FL",
+"company": "data",
+"credit": "9823646773474"
+},
+{
+"fname": "steven",
+"lname": "smith",
+"id": "04",
+"state": "NY",
+"company": "analyst",
+"credit": "98374587897335"
+}
+]
+}
